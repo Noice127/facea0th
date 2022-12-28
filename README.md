@@ -29,4 +29,4 @@ This will compare your face from Facelock to your face in Face_Verify.
 
 
 ### Code written by MadGeek (xAI Organization)
-###Powered by DeepFace
+### Powered by DeepFace
